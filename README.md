@@ -14,3 +14,38 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Flora Vision
+
+A responsive plant e-commerce landing page built with React, Vite, and Tailwind CSS.
+
+## Features
+- Responsive design
+- Hero section
+- Trending plants section
+- Oxygen plants section
+- Product cards
+
+## Installation
+
+```bash
+npm install
+```
+
+## Run the project
+
+```bash
+npm run dev
+```
+
+## Build for production
+
+```bash
+npm run build
+```
+
+## Technologies Used
+- React
+- Vite
+- Tailwind CSS
+- Lucide React
